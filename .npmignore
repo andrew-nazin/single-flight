@@ -1,0 +1,34 @@
+# Source files
+src/
+
+# Tests
+test/
+tests/
+__tests__/
+
+# Config files
+tsconfig.json
+vitest.config.ts
+
+# GitHub files
+.github/
+
+# IDE files
+.idea/
+.vscode/
+
+# Coverage
+coverage/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Package archives
+*.tgz
