@@ -1,6 +1,6 @@
 {
   "name": "@andrew-nazin/single-flight",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TypeScript single-flight implementation for deduplicating concurrent async operations by key.",
   "keywords": [
     "single-flight",
